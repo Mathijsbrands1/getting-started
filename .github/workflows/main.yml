@@ -36,3 +36,11 @@ jobs:
             name: getting-started-github
             location: 'west europe'
             ports: '3000'
+                        
+            azure-file-volume-account-key: 'ej7yT8xdHCfKHhQ55wVV/ooZ4YgtMeDaI8E7CAyVHS12pY1Y10aPoGR34YYU1DoAYgMozrw1Kc/y+AStvSavWw=='
+            
+            azure-file-volume-account-name: 'storfhict'
+           
+            azure-file-volume-mount-path: '/etc/todos/'
+            
+            azure-file-volume-share-name: 'storfhcit'
